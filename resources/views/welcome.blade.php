@@ -35,7 +35,7 @@
                     @endauth
                 </div>
             @endif
-            <p class="">start here</p>
+            <p class="text-white">start here</p>
         </div>
     </body>
 </html>
